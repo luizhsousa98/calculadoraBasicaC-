@@ -1,0 +1,6 @@
+c:\users\lhsousa\source\repos\2-criando_variaveis\2-criando_variaveis\bin\Debug\2-criando_variaveis.exe.config
+c:\users\lhsousa\source\repos\2-criando_variaveis\2-criando_variaveis\bin\Debug\2-criando_variaveis.exe
+c:\users\lhsousa\source\repos\2-criando_variaveis\2-criando_variaveis\bin\Debug\2-criando_variaveis.pdb
+c:\users\lhsousa\source\repos\2-criando_variaveis\2-criando_variaveis\obj\Debug\2-criando_variaveis.csproj.CoreCompileInputs.cache
+c:\users\lhsousa\source\repos\2-criando_variaveis\2-criando_variaveis\obj\Debug\2-criando_variaveis.exe
+c:\users\lhsousa\source\repos\2-criando_variaveis\2-criando_variaveis\obj\Debug\2-criando_variaveis.pdb
